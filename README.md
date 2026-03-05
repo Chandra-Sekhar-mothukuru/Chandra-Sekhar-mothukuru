@@ -87,4 +87,4 @@ My goal is to build **scalable AI systems that automate real-world workflows**.
 # 📫 Connect With Me
 
 📧 **Email:** chandrasekharmothukuru@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/yourprofile
+🔗 **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mothukuru-chandra-sekhar/)
