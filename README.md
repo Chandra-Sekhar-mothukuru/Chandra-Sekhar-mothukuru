@@ -33,7 +33,9 @@ My goal is to build **scalable AI systems that automate real-world workflows**.
 
 | Project | Description | Tech |
 |------|-------------|------|
-| **LLM Document Intelligence Engine** | Extracts structured information from documents using LLM pipelines | Python, Flask, OpenAI |
+| **| Project | Description | Tech |
+|------|-------------|------|
+| [AI Document Intelligence Platform](https://github.com/yourrepo) | Extracts structured information from documents using LLM pipelines | Python, RAG |** | Extracts structured information from documents using LLM pipelines | Python, Flask, OpenAI |
 | **QC Audit AI System** | Multi-document reasoning pipeline for automated audit generation | Python, LLM APIs |
 | **RAG Knowledge Assistant** | AI assistant answering questions using retrieved document knowledge | Python, Vector DB |
 | **AI Tool Orchestration Backend** | Agent-style backend that routes LLM requests to tools and APIs | Python, FastAPI |
