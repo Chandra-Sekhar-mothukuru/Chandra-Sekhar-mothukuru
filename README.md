@@ -7,7 +7,7 @@ Building intelligent AI systems that combine backend engineering, LLM pipelines,
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/mothukuru-chandra-sekhar/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=chandra-sekhar-mothukuru&style=for-the-badge&color=blue" />
